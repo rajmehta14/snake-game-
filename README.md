@@ -1,0 +1,2 @@
+This repository contains the code for a classic Snake game built using Python. The game is developed to provide a fun and interactive experience while demonstrating fundamental concepts of game development such as rendering graphics, handling user input, and implementing game logic. The game is simple yet addictive, where the player controls a snake to eat food and grow longer while avoiding collisions with the walls and the snake's own body.
+
